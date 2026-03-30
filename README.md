@@ -53,3 +53,6 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Taro002&icon=0&color=0" alt="Visitor Count" />
 </p>
+
+<img width="498" height="282" alt="berserk" src="https://github.com/user-attachments/assets/5a8a2221-bd5d-45d4-8ffe-40722359dffa" />
+
