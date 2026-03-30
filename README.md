@@ -42,5 +42,5 @@
 
 ---
 
-<img width="498" height="282" alt="berserk" src="https://github.com/user-attachments/assets/3cc407e4-0923-4b93-a00c-0a2a34b65976" />
+![guts-berserk-banner](https://github.com/user-attachments/assets/c20afeba-d45a-442b-bc76-cc83d402a76f)
 
