@@ -1,46 +1,40 @@
-### 💫 About Me
-🗿 **I'm a nice guy** passionate about the digital world.
-✨ Currently diving deep into **Coding** and **Cybersecurity**.
-🚀 Exploring the vast universe of computers, one line at a time.
+<div align="center">
+
+<br>
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/c20afeba-d45a-442b-bc76-cc83d402a76f" width="100%" style="border-radius: 10px; border: 2px solid #7E4798;" />
+      <br><br>
+      <a href="https://discord.gg/tr_taro_"><img src="https://img.shields.io/badge/Discord-000?style=flat-square&logo=discord&logoColor=7E4798" /></a><br>
+      <a href="https://youtube.com/@Tantannleboww"><img src="https://img.shields.io/badge/YouTube-000?style=flat-square&logo=youtube&logoColor=7E4798" /></a>
+    </td>
+    <td width="70%" align="left" valign="top">
+      <h1>𝖂𝕰𝕷𝕮𝕺𝕸𝕰</h1>
+      <p><i>« The struggle itself is the only thing that proves we're alive. »</i></p>
+      <hr color="#7E4798">
+      <h3>♱ 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊</h3>
+      • 🗿 <b>Nice guy</b> in the digital abyss.<br>
+      • ✨ Diving into <b>Coding</b> & <b>Cybersecurity</b>.<br>
+      • 🚀 One line of code at a time.
+      <br><br>
+      <h3>✦ 𝕬𝖗𝖘𝖊𝖓𝖆𝖑</h3>
+      <img src="https://skillicons.dev/icons?i=python,ts,css,powershell,git,mysql,tor,unreal,gimp&theme=dark&perline=5" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tr_taro_) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Tantannleboww)
+### 🎮 𝕲𝖆𝖒𝖎𝖓𝖏 𝕰𝖈𝖔𝖘𝖞𝖘𝖙𝖊𝖒
+<p align="center">
+  <img src="https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=7E4798" />
+  <img src="https://img.shields.io/badge/Riot-000?style=for-the-badge&logo=riotgames&logoColor=7E4798" />
+  <img src="https://img.shields.io/badge/Epic-000?style=for-the-badge&logo=epicgames&logoColor=7E4798" />
+  <img src="https://img.shields.io/badge/PSN-000?style=for-the-badge&logo=playstation&logoColor=7E4798" />
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7E4798&height=2&section=footer" width="100%"/>
 
-### 💻 Tech Stack
-
-#### 🚀 Programming & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🛡️ Security & Privacy
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-
-#### 🎨 Creative & Web
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-#### 🎮 Gaming Ecosystem
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black)
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white)
-![PSN](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white)
-
----
-
-![guts-berserk-banner](https://github.com/user-attachments/assets/c20afeba-d45a-442b-bc76-cc83d402a76f)
-
+</div>
